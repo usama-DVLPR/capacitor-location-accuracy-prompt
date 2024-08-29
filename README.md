@@ -5,7 +5,7 @@ A Capacitor plugin designed to manage and prompt users for location accuracy set
 ## Install
 
 ```bash
-npm install capacitor-location-accuracy-prompt
+npm install capacitor-location-accuracy-req
 npx cap sync
 ```
 
