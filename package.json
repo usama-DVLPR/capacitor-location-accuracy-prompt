@@ -1,5 +1,5 @@
 {
-  "name": "@capacitor/location-accuracy-prompt",
+  "name": "capacitor-location-accuracy",
   "version": "0.0.3",
   "description": "A Capacitor plugin designed to manage and prompt users for location accuracy settings on Android devices. This plugin helps ensure that your app requests and receives accurate location data, improving the user experience by guiding them to enable the necessary settings.",
   "main": "dist/plugin.cjs.js",
