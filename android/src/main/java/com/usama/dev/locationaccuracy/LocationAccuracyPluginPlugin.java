@@ -23,7 +23,6 @@ import com.google.android.gms.tasks.Task;
 public class LocationAccuracyPluginPlugin extends Plugin {
 
     private static final int REQUEST_CHECK_SETTINGS = 1001;
-//    private Location implementation = new LocationAccuracyPlugin();
 
     @PluginMethod
     public void checkLocationAccuracy(PluginCall call) {
