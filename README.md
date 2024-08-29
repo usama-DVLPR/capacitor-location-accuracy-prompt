@@ -1,4 +1,4 @@
-# capacitor-location-accuracy-prompt
+# capacitor-location-accuracy-req
 
 A Capacitor plugin designed to manage and prompt users for location accuracy settings on Android and iOS devices. This plugin helps ensure that your app requests and receives accurate location data, improving the user experience by guiding them to enable the necessary settings.
 
