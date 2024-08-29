@@ -10,10 +10,10 @@ npx cap sync
 ```
 
 ## API
-
 <docgen-index>
 
-* [`checkLocationAccuracy()`](#checklocationaccuracy)
+<!-- Android-only -->
+* [`checkLocationAccuracy()`](#checklocationaccuracy) 
 
 </docgen-index>
 
